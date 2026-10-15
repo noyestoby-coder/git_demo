@@ -5,6 +5,6 @@ fun = function(one)
   four[ 1, ]
   txt <- 'hello'
   three <- two+ 1
-  if(txt == 'hi') 4
+  if(txt == 'hello') 4
   5}
 {
